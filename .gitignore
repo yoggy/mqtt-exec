@@ -1,0 +1,6 @@
+*.swp
+*~
+.DS_Store
+config.yaml
+topic2cmd.csv
+log.txt*

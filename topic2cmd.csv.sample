@@ -1,0 +1,5 @@
+#subscribe_topic,command,stdout_topic
+topic/date,/bin/date,topic/date/result
+topic/time,/usr/bin/curl --silent https://ntp-b1.nict.go.jp/cgi-bin/json,topic/time/result
+topic/ping,/bin/ping -c 1 www.google.com,topic/ping/result
+topic/reboot,sudo /sbin/reboot,
