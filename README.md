@@ -1,7 +1,7 @@
 mqtt-exec.rb
 ====
 
-Simple process server using MQTT.
+a simple process server using MQTT.
 
     $ mkdir ~/work/
     $ cd work
