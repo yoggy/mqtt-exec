@@ -21,6 +21,6 @@ a simple process server using MQTT.
 
 Copyright and license
 ----
-Copyright (c) 2017 yoggy
+Copyright (c) 2018 yoggy
 
 Released under the [MIT license](LICENSE.txt)
